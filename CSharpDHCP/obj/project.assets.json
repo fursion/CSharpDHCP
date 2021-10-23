@@ -20,7 +20,7 @@
       "outputPath": "/Users/fursion/Dotnet/Dotnet/CSharpDHCP/CSharpDHCP/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/fursion/.config/NuGet/NuGet.Config"
+        "/Users/fursion/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
