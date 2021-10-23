@@ -1,0 +1,16 @@
+/Users/fursion/Dotnet/Dotnet/CSharpDHCP/CSharpDHCP/bin/Debug/net6.0/CSharpDHCP
+/Users/fursion/Dotnet/Dotnet/CSharpDHCP/CSharpDHCP/bin/Debug/net6.0/CSharpDHCP.deps.json
+/Users/fursion/Dotnet/Dotnet/CSharpDHCP/CSharpDHCP/bin/Debug/net6.0/CSharpDHCP.runtimeconfig.json
+/Users/fursion/Dotnet/Dotnet/CSharpDHCP/CSharpDHCP/bin/Debug/net6.0/CSharpDHCP.dll
+/Users/fursion/Dotnet/Dotnet/CSharpDHCP/CSharpDHCP/bin/Debug/net6.0/ref/CSharpDHCP.dll
+/Users/fursion/Dotnet/Dotnet/CSharpDHCP/CSharpDHCP/bin/Debug/net6.0/CSharpDHCP.pdb
+/Users/fursion/Dotnet/Dotnet/CSharpDHCP/CSharpDHCP/obj/Debug/net6.0/CSharpDHCP.GlobalUsings.g.cs
+/Users/fursion/Dotnet/Dotnet/CSharpDHCP/CSharpDHCP/obj/Debug/net6.0/CSharpDHCP.csproj.AssemblyReference.cache
+/Users/fursion/Dotnet/Dotnet/CSharpDHCP/CSharpDHCP/obj/Debug/net6.0/CSharpDHCP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fursion/Dotnet/Dotnet/CSharpDHCP/CSharpDHCP/obj/Debug/net6.0/CSharpDHCP.AssemblyInfoInputs.cache
+/Users/fursion/Dotnet/Dotnet/CSharpDHCP/CSharpDHCP/obj/Debug/net6.0/CSharpDHCP.AssemblyInfo.cs
+/Users/fursion/Dotnet/Dotnet/CSharpDHCP/CSharpDHCP/obj/Debug/net6.0/CSharpDHCP.csproj.CoreCompileInputs.cache
+/Users/fursion/Dotnet/Dotnet/CSharpDHCP/CSharpDHCP/obj/Debug/net6.0/CSharpDHCP.dll
+/Users/fursion/Dotnet/Dotnet/CSharpDHCP/CSharpDHCP/obj/Debug/net6.0/ref/CSharpDHCP.dll
+/Users/fursion/Dotnet/Dotnet/CSharpDHCP/CSharpDHCP/obj/Debug/net6.0/CSharpDHCP.pdb
+/Users/fursion/Dotnet/Dotnet/CSharpDHCP/CSharpDHCP/obj/Debug/net6.0/CSharpDHCP.genruntimeconfig.cache
