@@ -8,24 +8,31 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/fursion/.nuget/packages/": {}
+    "C:\\Users\\fursion\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fursion/Dotnet/Dotnet/CSharpDHCP/CSharpDHCP/CSharpDHCP.csproj",
+      "projectUniqueName": "D:\\CSharp-Git\\CSharpDHCP\\CSharpDHCP\\CSharpDHCP.csproj",
       "projectName": "CSharpDHCP",
-      "projectPath": "/Users/fursion/Dotnet/Dotnet/CSharpDHCP/CSharpDHCP/CSharpDHCP.csproj",
-      "packagesPath": "/Users/fursion/.nuget/packages/",
-      "outputPath": "/Users/fursion/Dotnet/Dotnet/CSharpDHCP/CSharpDHCP/obj/",
+      "projectPath": "D:\\CSharp-Git\\CSharpDHCP\\CSharpDHCP\\CSharpDHCP.csproj",
+      "packagesPath": "C:\\Users\\fursion\\.nuget\\packages\\",
+      "outputPath": "D:\\CSharp-Git\\CSharpDHCP\\CSharpDHCP\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/fursion/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\fursion\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100-rc.1.21463.6/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
       }
     }
   }
